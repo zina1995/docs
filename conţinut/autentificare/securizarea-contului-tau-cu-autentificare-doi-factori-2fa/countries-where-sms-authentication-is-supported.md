@@ -102,6 +102,7 @@ If your country is not on this list, then we aren't currently able to reliably d
 <li>Poland</li>
 <li>Portugal</li>
 <li>Qatar</li>
+<li>Republica Moldova</li>
 <li>Romania</li>
 <li>Rwanda</li>
 <li>Senegal</li>
@@ -122,6 +123,7 @@ If your country is not on this list, then we aren't currently able to reliably d
 <li>Tanzania</li>
 <li>Togo</li>
 <li>Trinidad and Tobago</li>
+<li>Turkye</li>
 <li>Turks and Caicos Islands</li>
 <li>Uganda</li>
 <li>United Arab Emirates</li>
